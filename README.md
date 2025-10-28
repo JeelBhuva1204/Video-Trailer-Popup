@@ -25,7 +25,7 @@
 ## 📸 Preview
 
 🎞️ **Live Demo:** 🔗 https://jeelbhuva1204.github.io/Video-Trailer-Popup/
-💾 **GitHub Repository:** [🔗 *Add your GitHub repo link here*]
+💾 **GitHub Repository:** 🔗(https://github.com/JeelBhuva1204/Video-Trailer-Popup/tree/main)
 
 
 
